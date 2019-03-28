@@ -69,3 +69,5 @@ $ git push -u origin master push到云端
 
 ## Reference
 [Git 與 Github 版本控制基本指令與操作入門教學 \| TechBridge 技術共筆部落格](https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/)
+
+[提交檔案【教學1 開始使用Git】 \| 連猴子都能懂的Git入門指南 | 貝格樂（Backlog）](https://backlog.com/git-tutorial/tw/intro/intro2_4.html)
